@@ -53,7 +53,6 @@ const questions = [
   {q:"Maintaining warmth and avoiding cooling are essential in newborn care.", a:true},
   {q:"Episiotomy is given to all premature infants.", a:false},
   {q:"Vitamin K administration to the mother is listed as prophylaxis.", a:true},
-  {q:"All parts of the scanned document are free of OCR errors.", a:false}
 ];
 
 let index=0;
