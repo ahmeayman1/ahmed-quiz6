@@ -14,7 +14,7 @@ const questions = [
   {q:"When membranes are ruptured, cord prolapse should be excluded.", a:true},
   {q:"Presenting part, position, station, and moulding are not relevant in PV exam.", a:false},
   {q:"Pelvic capacity and CPD tests are part of labour examination.", a:true},
-  {q:"Routine investigations may include blood group, Rh, urine analysis, Hb, and ultrasound if not done.", a:false},
+  {q:"Routine investigations may include blood group, Rh, urine analysis, Hb, and ultrasound if not done.", a: true},
   {q:"Active procedures include evacuation of bladder and rectum and vulval preparation.", a:true},
   {q:"Shaving the vulva is never performed in labour preparation.", a:false},
   {q:"Nutrition, posture, and analgesia are considered in active management.", a:true},
